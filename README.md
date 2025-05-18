@@ -51,7 +51,7 @@ Folder Structure
 
 How to Run
 ----------
-1. Make sure you have Java (17+) and SQLite JDBC driver.
+1. Make sure you have Java (17+) and SQLite JDBC driver. #sqllite driver are placed in lib folder need to be added as dependencies
 2. Clone or download the repository.
 3. Navigate to the project root directory.
 4. Compile all Java files:
